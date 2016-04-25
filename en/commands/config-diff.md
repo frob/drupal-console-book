@@ -1,5 +1,5 @@
 # config:diff
-Ouput configuration items that are different in active configuration compared with a directory.
+Output configuration items that are different in active configuration compared with a directory.
 
 **Usage:**
 ```
